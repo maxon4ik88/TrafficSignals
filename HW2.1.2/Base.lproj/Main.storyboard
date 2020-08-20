@@ -44,7 +44,7 @@
                                 </constraints>
                             </stackView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lYk-Gc-hwM">
-                                <rect key="frame" x="86" y="767" width="242" height="65"/>
+                                <rect key="frame" x="86" y="777" width="242" height="65"/>
                                 <color key="backgroundColor" systemColor="linkColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="44"/>
                                 <state key="normal" title="changeColor">
@@ -58,9 +58,8 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Ucx-F6-fh5" secondAttribute="trailing" constant="107" id="AF6-c9-ImL"/>
-                            <constraint firstItem="lYk-Gc-hwM" firstAttribute="top" relation="lessThanOrEqual" secondItem="Ucx-F6-fh5" secondAttribute="bottom" constant="93" id="Hnc-fR-FLD"/>
                             <constraint firstItem="Ucx-F6-fh5" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="Ptw-dm-pv8"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="lYk-Gc-hwM" secondAttribute="bottom" constant="30" id="bA9-lP-G01"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="lYk-Gc-hwM" secondAttribute="bottom" constant="20" id="bA9-lP-G01"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="lYk-Gc-hwM" secondAttribute="trailing" constant="86" id="bnP-F2-JGI"/>
                             <constraint firstItem="Ucx-F6-fh5" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="es4-3Q-D4C"/>
                             <constraint firstItem="lYk-Gc-hwM" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="86" id="gwP-c3-k3B"/>
